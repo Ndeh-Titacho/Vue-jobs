@@ -1,5 +1,6 @@
 # vue-jobs
 
+This is a job listing application created with vue. It's basically a CRUD for jobs.
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
